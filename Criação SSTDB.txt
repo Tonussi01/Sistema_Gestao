@@ -1,0 +1,40 @@
+CREATE TABLE ACESS(
+id	 int IDENTITY(1,1) PRIMARY KEY,
+usuario varchar(15) ,
+senha varchar(15) 
+);
+
+CREATE TABLE PRODUTOS (
+id	 int IDENTITY(1,1) PRIMARY KEY,
+nome varchar (50),
+quantidade	 int,
+valor_compra float,
+valor_venda  float,
+valor_lucro  float,
+disponivel	 int ,
+codigo_sku	 varchar(5)	
+);
+
+CREATE TABLE VENDAS (
+id int IDENTITY(1,1) PRIMARY KEY,
+Cliente varchar (50),
+valor_compra float,
+valor_custo_produtos  float,
+valor_lucro  float,
+situacao int ,
+forma_pagamento	int	,
+local_compra varchar(10),
+data_venda date
+);
+
+CREATE TABLE PRODUTOS_VENDA (
+id int IDENTITY(1,1) PRIMARY KEY,
+produto varchar (50),
+id_venda int,
+id_produto int, 
+valor_custo_produto  float,
+valor_venda_produto  float,
+quantidade int,
+data_venda date
+);
+

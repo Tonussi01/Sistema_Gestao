@@ -1,0 +1,36 @@
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\bin\Debug\SST.exe.config
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\bin\Debug\SST.exe
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\bin\Debug\SST.pdb
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.Properties.Resources.resources
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.csproj.GenerateResource.cache
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.csproj.CoreCompileInputs.cache
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.exe
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.pdb
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.Cadastro_Produtos.resources
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Login.resources
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Vendas.resources
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Empresarial.resources
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Cadastro_Vendas.resources
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Edicao_Produto.resources
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Edicao_Venda.resources
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.csprojAssemblyReference.cache
+D:\Smokeshop Tonussi\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.W_Produtos.resources
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\bin\Debug\SST.exe.config
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\bin\Debug\SST.exe
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\bin\Debug\SST.pdb
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.csproj.AssemblyReference.cache
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.csproj.SuggestedBindingRedirects.cache
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.Cadastro_Produtos.resources
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Cadastro_Vendas.resources
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Edicao_Produto.resources
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Edicao_Venda.resources
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Empresarial.resources
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Login.resources
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.W_Produtos.resources
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.Properties.Resources.resources
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Vendas.resources
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.csproj.GenerateResource.cache
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.csproj.CoreCompileInputs.cache
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.exe
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.pdb
+C:\Users\tonus\Desktop\Sistema Smokeshop Tonussi\SST\SST\obj\Debug\SST.View.W_Detalhe_Vendas.resources
